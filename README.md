@@ -5,5 +5,5 @@
 
 ## Maintainers
 * Keron 
-* Jayda 
+* Jayda https://github.com/jaydamedina
 * Holman https://github.com/golmansax
