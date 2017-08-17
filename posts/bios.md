@@ -7,4 +7,11 @@ Keron is a freshman at Hostos community college, majoring in computer science an
 
 ## Jayda Medina 
 Jayda is a freshman at the University of Rochester, majoring in Computer Science. She is a founder for the Tenfold Gaming Initiative blog and a member of the [Smash](https://en.wikipedia.org/wiki/Super_Smash_Bros.) team.
+
+
+## Mohammed Islam
+<img src="https://github.com/tenfoldgaming/pictures/blob/master/mohammed.jpg" width="100">
+
+Mohammed is a freshman at Erie Community College, in Buffalo New York, but is part of Tenfold Gaming back at New York City. Even though he can't physically be there for events, he has taken part when a core member was unable to show up. He helped create his highschool's first League of Legends team, with two other members, back in 2015 and has taken part in many online tournaments. He is also considered honorary coach for his League of Legends team. Currently, he is the core top laner and also the sub ADC for Tenfold's League of Legends team.
+
  
