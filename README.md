@@ -5,6 +5,6 @@
 * Resize images in Markdown: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
 ## Maintainers
-* Keron https://github.com/keronantoine
+* Keron https://github.com/lsidecharacterl
 * Jayda https://github.com/jaydamedina
 * Holman https://github.com/golmansax
